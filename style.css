@@ -1,0 +1,19 @@
+h1 {
+    color: floralwhite;
+    text-align: center;
+    font-family: Arial, Helvetica, serif;
+   }
+   p {
+    color: floralwhite;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-style: oblique;
+   }
+   
+body {
+    background: url("./milky-way-stars-night-sky.jpg");
+    background-repeat: no-repeat;
+    background-size: 1550px 1200px;
+}
+a {
+    color: floralwhite 
+  }
